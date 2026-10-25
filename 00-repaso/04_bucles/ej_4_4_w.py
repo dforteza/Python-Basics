@@ -2,3 +2,5 @@
 
 Con while, cuenta atrás de 10 a 1.
 """
+
+i = 0
